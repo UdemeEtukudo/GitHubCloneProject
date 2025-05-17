@@ -1,2 +1,1 @@
-# GitHubCloneProject
-This project practices branching and conflict resolution.
+# GitHubCloneProject\nObjective: Practice creating branches, making changes, merging, and resolving conflicts.
