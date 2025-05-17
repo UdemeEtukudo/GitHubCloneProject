@@ -1,3 +1,3 @@
-# GitHubCloneProject\nObjective: Practice creating branches, making changes, merging, and resolving conflicts.
 # GitHubCloneProject
-Modification in feature-greeting branch.
+Modification in main branch.
+Objective: Practice creating branches, making changes, merging, and resolving conflicts.
